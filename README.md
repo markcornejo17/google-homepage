@@ -1,0 +1,3 @@
+This is the start of my project using The Odin Project, to be honest I'm pretty excited on learning front-end development using this curriculum. I've used W3school, Freecodecamp, Codecademy and such to learn it. So here it goes.
+
+The first project that we have is making a search engine interface (like the google search engine). By this project I will manage to learn few things like using the HTML and CSS. Hopefully I can make it at its best :)
